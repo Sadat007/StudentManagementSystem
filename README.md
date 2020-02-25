@@ -1,4 +1,4 @@
-                  # StudentManagementSystem
+# StudentManagementSystem
                   
 School Management System, is an open source project for people who wants to grab simple core idea of the data process within the system in console.
 
